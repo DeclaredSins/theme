@@ -1,0 +1,59 @@
+.username.Forum_Staff::after, .user-main .fa.fa-shield::before, #user-card .fa.fa-shield::before {
+    content: 'Forum Staff';
+    margin-left: 5px;
+    color: #FFF;
+    background: #7289DA;
+    padding: 0 6px;
+    border-radius: 2px;
+    display: inline-block;
+    
+}
+
+.extra-info .badge-wrapper .badge-category-parent {
+    padding: 3px 6px;
+    width: auto;
+}
+
+.extra-info .badge-wrapper .badge-category-parent:before {
+    content: '';
+}
+
+.username.Partner::after, .user-main .fa.fa-shield::before, #user-card .fa.fa-shield::before {
+    content: 'Partner';
+    margin-left: 5px;
+    color: #FFF;
+    background: #4087ed;
+    padding: 0 6px;
+    border-radius: 2px;
+    display: inline-block;
+    
+}
+
+.extra-info .badge-wrapper .badge-category-parent {
+    padding: 3px 6px;
+    width: auto;
+}
+
+.extra-info .badge-wrapper .badge-category-parent:before {
+    content: '';
+}
+
+.username.Verified::after, .user-main .fa.fa-shield::before, #user-card .fa.fa-shield::before {
+    content: 'Verified';
+    margin-left: 5px;
+    color: #FFF;
+    background: #7289DA;
+    padding: 0 6px;
+    border-radius: 2px;
+    display: inline-block;
+    
+}
+
+.extra-info .badge-wrapper .badge-category-parent {
+    padding: 3px 6px;
+    width: auto;
+}
+
+.extra-info .badge-wrapper .badge-category-parent:before {
+    content: '';
+}
